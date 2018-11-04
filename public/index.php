@@ -1,1 +1,5 @@
-<?php echo file_get_contents('index.html'); ?>
+<?php
+
+header('Location: /index.html');
+
+?>
