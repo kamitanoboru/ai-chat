@@ -73,7 +73,8 @@ body {
  */
 
 #login {
-  padding-top: 51px;
+  /*padding-top: 51px;*/
+  margin-bottom:50px;
 }
 
 .login__help {
